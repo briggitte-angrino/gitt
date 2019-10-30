@@ -1,0 +1,64 @@
+a:link{
+    color: rgb(72, 255, 0);
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+a:active{
+    color:brown;
+}
+
+.parrafo{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px
+}
+
+.pagina{
+ color: green;
+ font-style: italic;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 50px;
+}
+
+.mu{
+    color: blueviolet;
+}
+.tu{
+    color: palevioletred;
+    font-size: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.boton{
+    padding: 10px;
+    margin: 30px;
+    font-size: 30px;
+    width: 150px;
+    height: 150px;
+    border: 2px  red;
+
+}
+
+.boton:hover{
+ background: chocolate;
+}
+
+img:hover{
+    /* filter: blur();
+    filter: grayscale(); */
+    filter: invert(20%);
+    /* filter:opacity(.6); */
+
+}
+
+.parrafo{
+    text-shadow: 1px 1px green;
+    word-spacing: 10px;
+    letter-spacing: 20px;
+}

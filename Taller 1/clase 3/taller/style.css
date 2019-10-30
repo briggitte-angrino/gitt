@@ -1,0 +1,39 @@
+body{
+    background-image: url(cine.jpg);
+    background-size: cover;
+    
+}
+h1{
+    font-size: 100px;
+    font-family: fantasy;
+    text-shadow: 2px 2px white;
+    text-align: center;
+
+}
+img{
+
+    margin: 70px 90px;
+    background-origin: padding-box;
+    width: 300px;
+    height: 400px;
+    filter: drop-shadow(4px 4px 6px black);
+}
+
+.b1{
+
+ background-color: grey;
+ border: none;
+ color: blanchedalmond;
+ padding: 15px 40px;
+ text-align: center;
+ color: black;
+ display: inline-block;
+ filter:drop-shadow(1px 1px 3px black);
+ font-size: 20px;
+ margin: 3px 180px 10px;
+
+}
+.b1:hover{
+ background-color:yellow;
+ color: black;
+}

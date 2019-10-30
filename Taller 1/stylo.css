@@ -1,0 +1,71 @@
+body{
+    background: #F8E0F7;
+}
+
+.banner{
+    
+   border: 2px solid  black;
+   background-size: 400% 400%;
+   position: static;
+ 
+}
+
+.boton{
+    background-color: rgb(190, 144, 184); 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 110px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.boton:hover{
+    background-color: darksalmon;
+    color: white;
+}
+
+.imag{
+    float: left;
+    width: 300px;
+    height: 400px;
+    margin: 20px;
+    border: 4px double rgb(128, 125, 125);
+}
+.div1{
+    padding-left: 30px;
+    padding-right: 150px;
+    text-align: justify;
+}
+.imag1{
+    float: right;
+    width: 300px;
+    height: 350px;
+    margin: 20px;
+    border: 5px double rgb(128, 125, 125);
+    margin: 0px 50px;
+}
+
+.div{
+   padding-left:500px; 
+ 
+}
+.img{
+    border-radius: 50%;
+    margin: 30px 50px;
+    padding-left:70px;
+}
+.tex{
+    text-align: center;
+    font-style: italic;
+  
+}
+.redes{
+    padding: left 100px;
+    border: 2px solid black;
+}
